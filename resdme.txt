@@ -2,4 +2,5 @@
 2.window>>show view>>navigator
 	org.eclipse.wst.common.component>>project-version="1.8.0"
 	org.eclipse.wst.common.project.facet.core.xml>>java version="1.8"
-						     >>jst.web version="3.1"    1.7对应3.0
+						     >>jst.web version="3.0"
+3.修改web.xml文件，<web-app version="3.0"> 和 jst.web version="3.0" 一致
